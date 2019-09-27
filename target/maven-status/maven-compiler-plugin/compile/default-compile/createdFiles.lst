@@ -1,0 +1,5 @@
+com/mobiquityinc/packer/Item.class
+com/mobiquityinc/packer/APIException.class
+com/mobiquityinc/packer/PackerCase.class
+com/mobiquityinc/packer/LineParser.class
+com/mobiquityinc/packer/Packer.class
